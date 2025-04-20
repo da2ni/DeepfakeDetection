@@ -1,4 +1,6 @@
 # Modified by Lee in 25.04.20. Testing..
+'''I want to stop studying...'''
+
 
 from torch import nn
 import torch
